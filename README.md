@@ -57,7 +57,7 @@ npm install
 #### Frontend
 Navigate to the `client` directory and install the required dependencies by running the following command:
 ```bash
-cd ../client
+cd client
 npm install
 ```
 
