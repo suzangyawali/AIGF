@@ -1,6 +1,4 @@
-Here’s the complete and detailed README file in Markdown format for your **ConfidantAI – Virtual Emotional Support Chatbot** project:
 
-```markdown
 # ConfidantAI – Virtual Emotional Support Chatbot
 
 ConfidantAI is a virtual emotional support chatbot designed to offer users a safe and empathetic space for expressing their emotions and managing mental well-being. The chatbot leverages AI to facilitate real-time, context-aware conversations, helping users process their emotions and providing them with the support they need.
